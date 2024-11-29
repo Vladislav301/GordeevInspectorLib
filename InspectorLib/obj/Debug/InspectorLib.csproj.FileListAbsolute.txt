@@ -1,0 +1,10 @@
+C:\Users\Владислав\source\repos\InspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\Владислав\source\repos\InspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\Владислав\source\repos\InspectorLib\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Владислав\source\repos\InspectorLib\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Владислав\source\repos\InspectorLib\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Владислав\source\repos\InspectorLib\obj\Debug\InspectorLib.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\InspectorLib\obj\Debug\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\InspectorLib\obj\Debug\Inspecto.2146981F.Up2Date
+C:\Users\Владислав\source\repos\InspectorLib\obj\Debug\InspectorLib.dll
+C:\Users\Владислав\source\repos\InspectorLib\obj\Debug\InspectorLib.pdb
